@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SpeechRecognizer</string>
+    <string name="app_name">Speech Recognizer</string>
     <string name="start_recording">Start recording</string>
     <string name="listening">Listening…</string>
     <string name="could_not_understand">I couldn\'t understand what you said</string>
